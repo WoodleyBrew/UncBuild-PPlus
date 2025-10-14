@@ -1,5 +1,10 @@
-# For those who want to play the old Dolphin for the new P+ updates. Click here to download: <a href="https://github.com/WoodleyBrew/UNCBUILD-PPLUS/releases>UncBuild!</a>
-### This is the 3.1.2 version of Ishii Dolphin with a few icon tweaks to distinquish it from Vanilla, included in the base download is the latest P+ version. If you wish to play this on other reigonal builds (ILPM, SG, ZuBat, etc.) there are download's in the releases tab!
+# For those who want to play the old Dolphin for the new P+ updates. Click here to download: <a href="https://github.com/WoodleyBrew/UNCBUILD-PPLUS/releases">UncBuild!</a>
 
+# FAQ
+### What is this? - UncBuild is just Ishiiruka FPM 3.1.2 but with the latest P+ update included as the sd.raw file. It's simply the old version Dolphin but with the latest P+ patch pre-installed! I also tweaked a few icons etc. but otherwise no actual coding went into this, this is just to make it an easy download for the Unc's out there.
+
+### Can I netplay vs someone on Mainline? - No, in order to netplay you and your friend must both be playing on UncBuild.
+
+### I wanna play on custom builds like ILPM or ZuBuild, am I able to? - Yes! Included in the downloads is some pre-built downloads for various reigonal builds, they're just as simple as taking the downloaded folder and dragging it into your UncBuild folder. You can have as many pre-builts as you want, no compatitblity issues etc.! (For technical detail it's just the various sd.raw files saved in pre-made folders for ease of use, this is just saving the trouble and time, and Unc-proofing things ofc)
 
 
