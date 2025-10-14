@@ -1,3 +1,5 @@
-# For those who want to play the old Dolphin for the new P+ updates. 
+# For those who want to play the old Dolphin for the new P+ updates. Click here to download: https://github.com/WoodleyBrew/UNCBUILD-PPLUS/releases/tag/UNC3.1.5
+### This is the 3.1.2 version of Ishii Dolphin with a few icon tweaks to distinquish it, included in the base download is the latest P+ version. If you wish to play this on other reigonal builds (ILPM, SG, ZuBat, etc.) there are download's in the releases tab!
 
-# Make sure you hit NO when it asks you to update. Otherwise this is exactly like the old Dolphin. Enjoy!
+
+
